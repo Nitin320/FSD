@@ -80,15 +80,7 @@ Users can register, log in, and manage their tasks with features like filtering,
    npm install
    ```
 
-3. **Environment Variables**
-   Create a `.env` file at the root with the following:
-
-   ```bash
-   VITE_SUPABASE_URL=your-supabase-url
-   VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
-   ```
-
-4. **Run the App**
+3. **Run the App**
    ```bash
    npm run dev
    ```
